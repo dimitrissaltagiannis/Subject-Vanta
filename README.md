@@ -15,8 +15,6 @@ No installation needed — just download and play!
 
 ## 📸 Screenshots
 
-*(You can add a few here later — just drag and drop image files into your GitHub repo and reference them like below)*
-
 ![Screenshot 1](images/screenshot1.png)
 ![Screenshot 2](images/screenshot2.png)
 
