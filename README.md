@@ -18,7 +18,8 @@ No installation needed — just download and play!
 ![Screenshot 1]<img width="1579" height="876" alt="Screenshot 2025-10-01 213102" src="https://github.com/user-attachments/assets/28ad436c-fa45-4d85-9ba6-b00c99917efe" />
 
 
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 2]<img width="1583" height="885" alt="Screenshot 2025-10-01 213233" src="https://github.com/user-attachments/assets/803e417c-89bd-4dca-84b3-f9baaa2cbdd9" />
+
 
 ---
 
