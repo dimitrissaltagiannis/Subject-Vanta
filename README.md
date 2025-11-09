@@ -15,7 +15,9 @@ No installation needed — just download and play!
 
 ## 📸 Screenshots
 
-![Screenshot 1](<img width="1579" height="876" alt="Screenshot 2025-10-01 213102" src="https://github.com/user-attachments/assets/978c20c5-0341-4591-bb25-274715a82c92" />)
+![Screenshot 1]<img width="1579" height="876" alt="Screenshot 2025-10-01 213102" src="https://github.com/user-attachments/assets/28ad436c-fa45-4d85-9ba6-b00c99917efe" />
+
+
 ![Screenshot 2](images/screenshot2.png)
 
 ---
