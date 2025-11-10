@@ -1,7 +1,7 @@
 # 🌌 Subject Vanta
 
 **Subject Vanta** is a short sci-fi experience created in **Unity**.  
-Explore a dark experimental environment and uncover the truth behind *Project Vanta*.
+Explore a dark experimental environment and uncover the truth behind *Project MK Vanta*.
 
 ---
 
